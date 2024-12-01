@@ -1,0 +1,17 @@
+{
+  "adminPanel": {
+    "password": "qaz",
+    "email": "test@gmail.com"
+  },
+  "database": {
+    "host": "localhost",
+    "user": "root",
+    "password": "qaz",
+    "database": "usof",
+    "port": "3306"
+  },
+  "nodemailer": {
+    "user": "woccer24@gmail.com",
+    "pass": "zjgk jrrg unha psnx"
+  }
+}
